@@ -37,5 +37,10 @@ python coffee_machine_gui.py
 Make sure you have PyQt5 installed before running the program.
 You may need to adjust the styling (colors, fonts, etc.) based on your preferences or system theme.
 
+## Code Explanations
+For detailed explanations of the code, please refer to [Code_Explanations.md](./Code_Explanations.md).
+
 ### Feel free to customize the code further to suit your needs or preferences! If you have any questions or encounter any issues, please don't hesitate to ask.
+
+
 
